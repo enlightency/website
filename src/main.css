@@ -1,11 +1,11 @@
 @tailwind base;
 
 a {
-  @apply text-green-700;
+  @apply text-blue-700;
 }
 
 a:hover {
-  @apply text-green-800;
+  @apply text-blue-800;
 }
 
 .container-inner {
