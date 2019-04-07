@@ -79,13 +79,14 @@
             想在第一時間看到我們的新文章嗎？請透過以下表單訂閱我們的電子報，未來新文章發佈時會直接送到你的信箱！
           </p>
 
-          <form action="#">
+          <form action="https://enlightency.us20.list-manage.com/subscribe/post?u=53a5102daca6fc53b3cf8f5b6&amp;id=c84a0898bd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div class="flex flex-col sm:flex-row">
-              <input type="email" name="email" placeholder="請輸入您的 Email" class="flex-1 bg-white rounded rounded-r-none px-4 py-4 leading-normal border border-r-0 shadow outline-none focus:border-blue-700 z-10" required>
-              <button data-element="submit" class="flex-2 w-40 uppercase bg-blue-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-blue-800 focus:bg-blue-800 z-10 w-full sm:w-auto mt-4 sm:mt-0">
+              <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="請輸入您的 Email" class="flex-1 bg-white rounded rounded-r-none px-4 py-4 leading-normal border border-r-0 shadow outline-none focus:border-blue-700 z-10" required>
+              <button data-element="submit" name="subscribe" id="mc-embedded-subscribe" class="flex-2 w-40 uppercase bg-blue-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-blue-800 focus:bg-blue-800 z-10 w-full sm:w-auto mt-4 sm:mt-0">
                 <span>訂閱</span>
               </button>
             </div>
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_53a5102daca6fc53b3cf8f5b6_c84a0898bd" tabindex="-1" value=""></div>
           </form>
         </div>
       </div>
