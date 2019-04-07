@@ -15,17 +15,18 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'keywords',
-    content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS'
+    content: '個人品牌,企業技術形象,軟技能,職涯教練,線上課程,履歷表,履歷撰寫技巧'
   })
 
   head.meta.push({
     name: 'description',
-    content: 'Gridsome Portfolio Starter'
+    content: '\n' +
+        '澄煦顧問（Enlightency Consulting）是一家技術顧問公司，服務對象為軟體工程師與軟體企業。澄煦提供的服務包括程式語言訓練課程、軟體專案管理訓練、軟體社群營運服務等；另外，還提供職涯顧問、履歷表課程…等軟性技能服務。澄煦，點亮你溫暖的技術職涯。'
   })
 
   head.meta.push({
     name: 'author',
-    content: 'Andre Madarang'
+    content: '澄煦顧問'
   })
 
   head.link.push({
