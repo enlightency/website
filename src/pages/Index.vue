@@ -29,6 +29,12 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
+            <div><a href="https://medium.com/enlightency/mythbusters01-study-first-before-you-apply-a-job-972f088299da" target="_blank">求職謠言破解 #01 -「履歷在手，工作我有？ 」</a></div>
+            <div class="text-lg text-gray-600">
+              求職者需要漸進式的把「求職全局觀」技能加滿
+            </div>
+          </li>
+          <li class="checkmark mb-6">
             <div><a href="https://medium.com/enlightency/five-misunderstandings-about-resume-4c332fc91eb" target="_blank">寫履歷表時常踏入的五大思維誤區</a></div>
             <div class="text-lg text-gray-600">
               別再悶著頭寫履歷了！調整思維、掌握履歷的重點，才是成功求職的第一關！
